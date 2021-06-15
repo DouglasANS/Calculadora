@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="marginLeft">5sp</dimen>
+    <dimen name="marginRight">5sp</dimen>
+    <dimen name="marginTop">10sp</dimen>
+    <dimen name="marginBotton">10sp</dimen>
+    <dimen name="marginStart">5sp</dimen>
+    <dimen name="marginEnd">5sp</dimen>
+    <dimen name="Size">30sp</dimen>
+</resources>
